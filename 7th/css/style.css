@@ -1,0 +1,22 @@
+.container{
+    width: 1000px;
+    height: max-content;
+   
+    border: 2px solid black;
+}
+
+
+h2{
+    background-color: red;
+}
+
+
+input{
+     outline: 0;
+     border-width: 0 0 2px;
+    border-color: blue
+} 
+
+input:focus {
+    border-color: green
+  }
